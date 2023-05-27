@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Linh Vu, you can call me Alana. I am currently a Sophomore student at Fulbright University Vietnam studying Computer Science.
+This is Linh Vu. I am currently a Senior at Fulbright University Vietnam studying Computer Science.
 
 - Current project(s):
 - Interests: Machine Learning
